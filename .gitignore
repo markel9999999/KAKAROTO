@@ -1,0 +1,6 @@
+#vsbjondf
+#ignorar los siguientes tipos de archivos
+*.csv
+
+*.xslx
+*.xls
